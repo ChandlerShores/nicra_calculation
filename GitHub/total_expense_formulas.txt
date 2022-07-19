@@ -1,0 +1,8 @@
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ")
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!J:J,"G")
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!L:L,"6")
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!J:J,"P",'NICRA datasheet'!U:U,"N",'NICRA datasheet'!M:M,"<>Sponsorship",'NICRA datasheet'!I:I,"<>Non-programmatic")
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!L:L,"11",'NICRA datasheet'!I:I,"<>Non-programmatic")
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!J:J,"P",'NICRA datasheet'!H:H,"9",'NICRA datasheet'!U:U,"N",'NICRA datasheet'!M:M,"<>Sponsorship")-L" + row_as_str + "
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!L:L,"11",'NICRA datasheet'!H:H,"9")
+=SUMIFS('NICRA datasheet'!N:N,'NICRA datasheet'!O:O,"<>HQ",'NICRA datasheet'!M:M,"Undesignated",'NICRA datasheet'!U:U,"N",'NICRA datasheet'!G:G,"<>Direct - Allowable")

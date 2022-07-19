@@ -1,0 +1,42 @@
+Total Expenses 
+Grants 
+GIK 
+Private (non-GIK) (non-Spon) Programmatic 
+Spon Programmatic 
+Private (non-GIK) (non-Spon) Direct Non-Progr. 
+Spon Non-Progr. 
+Undes Non-Progr. 
+check 
+Program Admin. 
+Advocacy
+Mgmt & Gen'l 
+Fund Raising 
+Support Services 
+Building Oper. 
+Program Admin. 
+Advocacy
+Mgmt & Gen'l 
+Fund Raising 
+Support Services 
+Building Oper. 
+check 
+Program Admin. 
+Advocacy 
+Mgmt & Gen'l
+Fund Raising 
+Program Admin. 
+Advocacy
+Mgmt & Gen'l 
+Fund Raising 
+check 
+Program
+Admin. 
+Advocacy 
+Mgmt & Gen'l 
+Fund Raising 
+check 
+Program Admin. 
+Advocacy 
+Mgmt & Gen'l 
+Fund Raising 
+check
